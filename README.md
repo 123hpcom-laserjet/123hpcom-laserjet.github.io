@@ -6,7 +6,7 @@ LaserJet is a name given to a first-of-its-kind desktop printer manufactured by 
 
 
 
-## Features of HP LaserJet printer
+## Features of LaserJet printer
 
 **Here are the features of HP LaserJet printers**
 
@@ -35,7 +35,7 @@ LaserJet is a name given to a first-of-its-kind desktop printer manufactured by 
 6. Follow Installation Instructions.
 
 
-## Set up an HP LaserJet printer software in Windows
+## Set up an LaserJet printer software in Windows
 
 
 1. Once installed, set your HP LaserJet as the default printer.
@@ -52,8 +52,7 @@ LaserJet is a name given to a first-of-its-kind desktop printer manufactured by 
 ## FAQs
 
 ### 1. How to connect printer & computer to same network?
-Press wireless button for at least 5 sec, then as light starts to blink press WPS button
- As connection establishes, you get no flash.
+Press wireless button for at least 5 sec, then as light starts to blink press WPS button As connection establishes, you get no flash.
 
 
 ### 2. What is prerquisite to connect HP Laserjet wireless printer & smartphone?
