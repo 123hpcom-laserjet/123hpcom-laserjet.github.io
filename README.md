@@ -1,10 +1,10 @@
 ## 123.hp.com/laserjet
 
 
-LaserJet is a name given to a first-of-its-kind desktop printer manufactured by Hewlett Packard (HP) in the mid-1980s. The HP LaserJet printer quickly became popular due to its size, low maintenance and ability to reduce noise, which was a major issue before LaserJet's inception. [HP LaserJet printer]() differed from ordinary printers in that it uses dry toner instead of wet ink.
+LaserJet is a name given to a first-of-its-kind desktop printer manufactured by Hewlett Packard (HP) in the mid-1980s. The [123.hp.com/laserjet]()  quickly became popular due to its size, low maintenance and ability to reduce noise, which was a major issue before LaserJet's inception. [HP LaserJet printer]() differed from ordinary printers in that it uses dry toner instead of wet ink.
 
 
-[123.hp.com]()
+
 
 ## Features of HP LaserJet printer
 
